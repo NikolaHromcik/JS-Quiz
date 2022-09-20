@@ -1,0 +1,121 @@
+[
+    {
+    "id": 1,
+    "question": "How many continents does earth have?",
+    "answers":       
+            [
+            {"opt": "5", "correct": false},
+            {"opt": "12", "correct": false},
+            {"opt": "0", "correct": false},
+            {"opt": "7", "correct": true}
+            ]   
+},
+{
+    "id": 2,
+    "question": "What country has most time zones?",
+    "answers":[
+        
+            {"opt": "UK", "correct": false},
+            {"opt": "France", "correct": true},
+            {"opt": "USA", "correct": false},
+            {"opt": "Russia", "correct": false}
+        
+    ]
+},
+{
+    "id": 3,
+    "question": "Who wrote C++ programming language?",
+    "answers":[
+        
+            {"opt": "Dennis Ritchie","correct": false},
+            {"opt": "Bjarne Stroustrup","correct": true},
+            {"opt": "Brian Kernighan","correct": false},
+            {"opt": "Steve Jobs","correct": false}
+        
+    ]
+},
+{
+    "id": 4,
+    "question": "What language do we use for managing relational databases?",
+    "answers":[
+        
+            {"opt": "GO","correct": false},
+            {"opt": "FORTRAN","correct": false},
+            {"opt": "C#","correct": false},
+            {"opt": "SQL","correct": true}
+        
+    ]
+},
+{
+    "id": 5,
+    "question": "What is the capital of Argentina?",
+    "answers":[
+        
+        {"opt": "La Paz","correct": false},
+        {"opt": "Buenos Aires","correct": true},
+        {"opt": "Montevideo","correct": false},
+        {"opt": "Santiago","correct": false}
+    ]
+},
+{
+    "id": 6,
+    "question": "What is the name of the winged horse in Greek mythology?",
+    "answers":[
+        
+            {"opt": "Hermes","correct": false},
+            {"opt": "Manticore","correct": false},
+            {"opt": "Pegasus","correct": true},
+            {"opt": "Minotaurus","correct": false}
+        
+    ]
+},
+{
+    "id": 7,
+    "question": "Which element is said to keep bones strong?",
+    "answers":[
+        
+            {"opt": "Calcium","correct": true},
+            {"opt": "Magnesium","correct": false},
+            {"opt": "Iron","correct": false},
+            {"opt": "Sodium","correct": false}
+        
+    ]
+},
+{
+    "id": 8,
+    "question": "Which country has the longest coastline in the world?",
+    "answers":[
+        
+            {"opt": "Australia","correct": false},
+            {"opt": "Russia","correct": false},
+            {"opt": "USA","correct": false},
+            {"opt": "Canada","correct": true}
+        
+    ]
+},
+{
+    "id": 9,
+    "question": "What is the World's Smallest Country?",
+    "answers":[
+        
+        {"opt": "Lichtenstein","correct": false},
+        {"opt": "Lucemburg","correct": false},
+        {"opt": "Vatican City","correct": true},
+        {"opt": "Monaco","correct": false}
+        
+    ]
+},
+{
+    "id": 10,
+    "question": "In which country is Mount Fuji located?",
+    "answers":[
+        
+            {"opt": "Japan","correct": true},
+            {"opt": "China","correct": false},
+            {"opt": "South Corea","correct": false},
+            {"opt": "Peru","correct": false}
+        
+    ]
+}
+
+]

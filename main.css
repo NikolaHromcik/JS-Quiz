@@ -1,0 +1,53 @@
+body{
+    background: #333333;
+    background: -webkit-linear-gradient(to right, #dd1818, #333333);
+    background: linear-gradient(to right, #dd1818, #333333);
+    font-family: 'Times New Roman', serif;
+}
+.content{
+    display: grid;
+    place-content: center;
+    justify-content: center;
+    margin-top: 150px;
+}
+h1{
+    display: block;
+    margin-bottom: 10px;
+    font-size: 40px;
+    color: white;
+}
+#text{
+    display: grid;
+    justify-content: left;
+    min-width: 220px;
+    max-width: 220px;
+}
+
+.hide{
+    display: none;
+}
+.buttons{
+    display: grid;
+    place-content: center;
+    justify-content: center;
+    text-align: center;
+
+
+}
+#start-btn, #next-btn, #finish-btn{
+    padding-left: 30px;
+    padding-right: 30px;
+    display: grid;
+    place-content: center;
+}
+
+ul{
+    padding-left: 10px;
+    list-style: none;
+}
+p{
+    display: flex;
+}
+h2,h4,li{
+    color:white;
+}
