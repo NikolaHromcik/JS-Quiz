@@ -1,0 +1,1 @@
+index.html must be statret through live server for application to work properly.
